@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3. Forma</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        button { margin: 10px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>3. Forma</h1>
+    <p>Šeit tiek analizēti un attēloti rezultāti.</p>
+    <button onclick="location.href='index.html'">Atpakaļ uz 1. formu</button>
+</body>
+</html>
