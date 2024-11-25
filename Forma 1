@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1. Forma</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        button { margin: 10px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>1. Forma (Sākumlapa)</h1>
+    <p>Laipni lūdzam ķīmijas laboratorijas uzskaites sistēmā!</p>
+    <button onclick="location.href='form2.html'">Uz 2. formu</button>
+    <button onclick="location.href='form3.html'">Uz 3. formu</button>
+</body>
+</html>
